@@ -1,4 +1,4 @@
-# PLANT IN
+# LIST OF POSTS
 
 1. [DEMO LINK](https://uladutchak.github.io/List-of-posts/)
 
